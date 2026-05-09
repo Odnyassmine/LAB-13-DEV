@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mapapplication.app-debug-35:/drawable_ic_launcher.png.flat",
+        "source": "com.example.mapapplication.app-main-37:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mapapplication.app-debug-35:/drawable_marker.png.flat",
+        "source": "com.example.mapapplication.app-main-37:/drawable/marker.png"
+    },
+    {
+        "merged": "com.example.mapapplication.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.mapapplication.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mapapplication.app-debug-35:/layout_activity_google_map.xml.flat",
+        "source": "com.example.mapapplication.app-main-37:/layout/activity_google_map.xml"
+    },
+    {
+        "merged": "com.example.mapapplication.app-debug-35:/xml_network_security_config.xml.flat",
+        "source": "com.example.mapapplication.app-main-37:/xml/network_security_config.xml"
+    }
+]
